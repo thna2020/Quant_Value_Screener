@@ -12,3 +12,6 @@ The core concept of our algorithmic value investing strategy is **multiples**, w
     - P/B ratios under 1 are often considered solid investments.
 - Price-to-free-cash-flow (P/CF) ratio = Share price / Cash flow per share
     - The P/CF ratio measures how much cash a company generates relative to its stock price.
+
+## References
+Investopedia
