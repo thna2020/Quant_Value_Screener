@@ -6,5 +6,4 @@ The core concept of our algorithmic value investing strategy is **multiples**, w
 - Price-to-earnings (P/E) ratio = Share price / Earnings per share
 - Price-to-book-value (P/B) ratio = Market price per share / Book value per share
 - Price-to-free-cash-flow (P/CF) ratio = Share price / Cash flow per share
-
--- The P/CF ratio measures how much cash a company generates relative to its stock price.
+** The P/CF ratio measures how much cash a company generates relative to its stock price.
