@@ -13,5 +13,7 @@ The core concept of our algorithmic value investing strategy is **multiples**, w
 - Price-to-free-cash-flow (P/CF) ratio = Share price / Cash flow per share
     - The P/CF ratio measures how much cash a company generates relative to its stock price.
 
+Each mmultiple has its pros and cons. A way to minimize the impact of the cons of any specific multiple is by using a **composite**. For the investing strategy of my project, I will use a composite of five (5) distinct value investing metrics.
+
 ## References
 Investopedia
