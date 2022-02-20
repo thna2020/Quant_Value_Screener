@@ -15,5 +15,7 @@ The core concept of our algorithmic value investing strategy is **multiples**, w
 
 Each mmultiple has its pros and cons. A way to minimize the impact of the cons of any specific multiple is by using a **composite**. For the investing strategy of my project, I will use a composite of five (5) distinct value investing metrics.
 
+**Please refer to csv file for project result based on data as of Feb 19, 2022.**
+
 ## References
 Investopedia
