@@ -17,5 +17,7 @@ Each mmultiple has its pros and cons. A way to minimize the impact of the cons o
 
 **Please refer to csv file for project result based on data as of Feb 19, 2022.**
 
+![](value_backtest.png)
+
 ## References
 Investopedia
